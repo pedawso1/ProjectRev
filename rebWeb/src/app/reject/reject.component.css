@@ -1,0 +1,29 @@
+
+.button {
+
+  display: inline-block;
+  border-radius: 4px;;
+  background-color: black;
+  font-family: Arial;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 18px;
+  padding: 12px;
+  width: 130px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+  margin-left: 15px;
+}
+
+.button:hover {
+  padding-right: 17px;
+  background-color: #eeeeee;
+
+}
+
+.button:hover {
+  opacity: 1;
+  right: 0;
+}

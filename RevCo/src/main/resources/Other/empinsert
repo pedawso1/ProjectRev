@@ -1,0 +1,53 @@
+INSERT INTO employee(first_name,last_name, dept_id,mgr_id,reimbursment_summary,username,password)
+	VALUES('Bob', 'Houser', 1, 1, 0,'Cloud1','pass');
+	
+INSERT INTO employee(first_name,last_name, dept_id,mgr_id,reimbursment_summary,username,password)
+	VALUES('Tom', 'Bilko', 1, 1, 0,'VRD3','pass');
+	
+INSERT INTO employee(first_name,last_name, dept_id,mgr_id,reimbursment_summary,username,password)
+	VALUES('Micheal', 'Houser', 1, 2, 0,'VRD1','pass');
+	
+INSERT INTO employee(first_name,last_name, dept_id,mgr_id,reimbursment_summary,username,password)
+	VALUES('Dale', 'Turner', 1, 2, 0,'Cloud4','pass');
+
+INSERT INTO employee(first_name,last_name, dept_id,mgr_id,reimbursment_summary,username,password)
+	VALUES('Mike', 'Werner', 2, 5, 0,'VRD2','pass');
+	
+INSERT INTO employee(first_name,last_name, dept_id,mgr_id,reimbursment_summary,username,password)
+	VALUES('Willy', 'Barnslo', 2, 5, 0,'VRD3','pass');
+	
+INSERT INTO employee(first_name,last_name, dept_id,mgr_id,reimbursment_summary,username,password)
+	VALUES('Chuck', 'Farney', 2, 6, 0,'VRD1','pass');
+	
+INSERT INTO employee(first_name,last_name, dept_id,mgr_id,reimbursment_summary,username,password)
+	VALUES('Roger', 'Webster', 2, 6, 0,'VRD4','pass');
+	
+INSERT INTO employee(first_name,last_name, dept_id,mgr_id,reimbursment_summary,username,password)
+	VALUES('Igee', 'EihteeEight', 3, 9, 0,'Sky3','pass');
+	
+INSERT INTO employee(first_name,last_name, dept_id,mgr_id,reimbursment_summary,username,password)
+	VALUES('Hal', 'NineThousand', 3, 10, 0,'Ski1','pass');
+	
+INSERT INTO employee(first_name,last_name, dept_id,mgr_id,reimbursment_summary,username,password)
+	VALUES('Termi', 'Nator', 3, 10, 0,'Sky2','pass');
+	
+INSERT INTO employee(first_name,last_name, dept_id,mgr_id,reimbursment_summary,username,password)
+	VALUES('Cye', 'Lawn', 3, 9, 0,'Sky4','pass');
+	
+
+	
+INSERT INTO employee(first_name,last_name, dept_id,mgr_id,reimbursment_summary,username,password)
+	VALUES('Donald', 'Drumpf', 4, 13, 0,'Flop5','pass');
+	
+INSERT INTO employee(first_name,last_name, dept_id,mgr_id,reimbursment_summary,username,password)
+	VALUES('Freddy', 'Flintstones', 4, 14, 0,'Flop1','pass');
+	
+INSERT INTO employee(first_name,last_name, dept_id,mgr_id,reimbursment_summary,username,password)
+	VALUES('Croma', 'Gnumman', 4, 14, 0,'Flop3','pass');
+	
+INSERT INTO employee(first_name,last_name, dept_id,mgr_id,reimbursment_summary,username,password)
+	VALUES('Captenca', 'Veman', 4, 16, 0,'Flop2','pass');
+	
+INSERT INTO employee(first_name,last_name, dept_id,mgr_id,reimbursment_summary,username,password)
+	VALUES('Enceeno', 'Maan', 4, 16, 0,'Flop4','pass');
+	

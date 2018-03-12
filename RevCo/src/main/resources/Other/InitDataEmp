@@ -1,0 +1,41 @@
+INSERT INTO dept(id, dept_name)
+	VALUES(1,'Cloud Development');
+	
+INSERT INTO dept(id, dept_name)
+	VALUES(2,'VR Development');
+
+INSERT INTO dept(id, dept_name)
+	VALUES(3,'CODENAME: SKYNET');
+
+INSERT INTO dept(id, dept_name)
+	VALUES(4,'Floppy-Disk Technologies');
+	
+INSERT INTO events(id, event_type)
+	VALUES (1,'University Courses');
+INSERT INTO events(id, event_type)
+	VALUES (2,'Semniars');
+INSERT INTO events(id, event_type)
+	VALUES (3,'Certification Prep Class');	
+INSERT INTO events(id, event_type)
+	VALUES (4,'Certification');
+INSERT INTO events(id, event_type)
+	VALUES (5,'Technical Training');
+INSERT INTO events(id, event_type)
+	VALUES (6,'Other');
+	
+INSERT INTO grade_format(id,grade_type)
+	VALUES(1, 'Presentation');
+INSERT INTO grade_format(id,grade_type)
+	VALUES(2, 'Attendence');
+INSERT INTO grade_format(id,grade_type)
+	VALUES(3, 'Peer Lesson');
+	
+
+
+INSERT INTO employee(first_name,last_name,dept_id,
+					mgr_id,reimbursment_summary,username,password
+					)
+					VALUES('Bob','Middle',1,null,0,'user','pass');
+					
+
+

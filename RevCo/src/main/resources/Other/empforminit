@@ -1,0 +1,18 @@
+INSERT INTO employee(first_name,last_name,dept_id,
+					mgr_id,reimbursment_summary,username,password
+					)
+					VALUES('Bob','Middle',1,1,0,'user','pass');
+					
+INSERT INTO employee(first_name,last_name,dept_id,
+					mgr_id,reimbursment_summary,username,password
+					)
+					VALUES('John','Low',1,1,0,'user1','pass1');
+
+INSERT INTO employee(first_name,last_name,dept_id,
+					mgr_id,reimbursment_summary,username,password
+					)
+					VALUES('Randy','Middle',1,1,0,'user2','pass2');
+					
+INSERT INTO form(date,location,description,grade_format,event_type,emp_id)
+	VALUES(DATE '2015-12-17','Huntsville, NY', 'Floppy-Thoughts: School of Harddisk Knocks', 1,1,1);
+

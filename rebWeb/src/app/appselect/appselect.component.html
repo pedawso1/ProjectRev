@@ -1,0 +1,10 @@
+<form>
+  <div class="group">
+    <a routerLink="/newForm" class="button">New Forms</a>
+    <a routerLink="/application" class="button">Old Forms</a>
+    <div *ngIf="this.userMgr">
+      <a routerLink="/review" class="button">Review Forms</a>
+    </div>
+  </div>
+</form>
+

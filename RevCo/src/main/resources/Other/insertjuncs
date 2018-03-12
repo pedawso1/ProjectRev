@@ -1,0 +1,4 @@
+INSERT INTO manager_form_junction(emp_id,form_id,approval_date)	SELECT form.emp_id,form.id, '2018-2-12'FROM form WHERE id = ?
+
+	
+	

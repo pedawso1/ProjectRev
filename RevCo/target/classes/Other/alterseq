@@ -1,0 +1,2 @@
+ALTER SEQUENCE employee_id_seq RESTART 1;
+ALTER SEQUENCE form_id_seq RESTART 1;

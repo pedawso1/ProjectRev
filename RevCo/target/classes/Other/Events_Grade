@@ -1,0 +1,7 @@
+CREATE TABLE Grade_Format(
+id serial PRIMARY KEY,
+Grade_Type varchar(30));
+
+CREATE TABLE Events(
+id serial PRIMARY KEY,
+Event_Type varchar(10))

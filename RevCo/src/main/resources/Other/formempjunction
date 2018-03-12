@@ -1,0 +1,5 @@
+CREATE TABLE manager_form_junction(
+emp_id integer,
+form_id integer,
+approval_date Date,
+CONSTRAINT PRIMARY KEY(emp_id,form_id))

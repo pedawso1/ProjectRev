@@ -1,0 +1,5 @@
+SELECT concat(e.first_name,' ', e.last_name) AS Employee, e.id, 
+                concat(m.first_name,' ', m.last_name) AS manager, m.id AS manage_id, e.dept_id
+                FROM employee e, employee m 
+                WHERE e.mgr_id = m.id AND e.id != m.id 
+				ORDER BY m.id DESC

@@ -1,0 +1,8 @@
+CREATE TABLE Form(
+id serial PRIMARY KEY,
+Date date, 
+Location varchar(50),
+Description varchar(300),
+Grade_Format integer,
+Event_Type integer,
+Work_Excuse varchar(300))

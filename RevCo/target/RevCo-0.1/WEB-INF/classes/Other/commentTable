@@ -1,0 +1,9 @@
+CREATE TABLE comment(
+id serial PRIMARY KEY,
+form_Id integer References form(id),
+emp_sender integer References employee(id),
+emp_receiver integer References employee(id),
+date_Posted Date,
+post text
+
+)
