@@ -43,11 +43,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FormDAOImpl.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FormDAOImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/RevCo/DAO/FormDAOImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+            <state relative-caret-position="253">
+              <caret line="124" column="13" lean-forward="false" selection-start-line="124" selection-start-column="13" selection-end-line="124" selection-end-column="13" />
               <folding>
                 <element signature="method#getFormById#0;class#FormDAOImpl#0" expanded="false" />
                 <element signature="method#getAllForms#0;class#FormDAOImpl#0" expanded="false" />
@@ -64,28 +64,22 @@
                 <element signature="method#getPending#0;class#FormDAOImpl#0" expanded="false" />
                 <element signature="method#getNewCost#0;class#FormDAOImpl#0" expanded="false" />
                 <element signature="method#closeResources#0;class#FormDAOImpl#0" expanded="false" />
-                <marker date="1520610332119" expanded="true" signature="566:723" ph="Select \&quot;tim... form" />
-                <marker date="1520610332119" expanded="true" signature="1971:2114" ph="Select \&quot;tim... form" />
                 <marker date="1520610332119" expanded="true" signature="3407:3899" ph="Select form_... manager_form_junction" />
                 <marker date="1520610332119" expanded="true" signature="4567:4614" ph="Select date_... manager_form_junction" />
                 <marker date="1520610332119" expanded="true" signature="4567:4693" ph="Select date_... manager_form_junction" />
                 <marker date="1520610332119" expanded="true" signature="4567:4695" ph="Select date_... manager_form_junction" />
                 <marker date="1520610332119" expanded="true" signature="4567:4696" ph="Select date_... manager_form_junction" />
-                <marker date="1520610332119" expanded="true" signature="5404:5565" ph="Select \&quot;tim... form" />
-                <marker date="1520610332119" expanded="true" signature="6860:7018" ph="Select \&quot;tim... " />
-                <marker date="1520610332119" expanded="true" signature="8365:8525" ph="Select \&quot;tim... " />
-                <marker date="1520610332119" expanded="true" signature="9867:10026" ph="Select \&quot;tim... form" />
-                <marker date="1520610332119" expanded="true" signature="11340:11474" ph="Select \&quot;tim... grade_format" />
-                <marker date="1520610332119" expanded="true" signature="12134:12201" ph="Select event... events" />
-                <marker date="1520610332119" expanded="true" signature="12903:13021" ph="Select event... events" />
-                <marker date="1520610332119" expanded="true" signature="13700:13745" ph="UPDATE form... " />
-                <marker date="1520610332119" expanded="true" signature="14644:14812" ph="INSERT INTO form... " />
-                <marker date="1520610332119" expanded="true" signature="15517:15632" ph="INSERT INTO manager_form_junction... " />
-                <marker date="1520610332119" expanded="true" signature="15581:15632" ph="Select form.... form" />
-                <marker date="1520610332119" expanded="true" signature="16232:16406" ph="UPDATE form... " />
-                <marker date="1520610332119" expanded="true" signature="17659:17722" ph="SELECT SUM (... form" />
-                <marker date="1520610332119" expanded="true" signature="18441:18504" ph="SELECT SUM (... form" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/RevCo/Servlets/LoginServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="989">
+              <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -122,16 +116,6 @@
                 <element signature="method#getAllComments#0;class#Management#0" expanded="false" />
                 <element signature="method#isManager#0;class#Management#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Validation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/RevCo/Controller/Validation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="966">
-              <caret line="45" column="14" lean-forward="false" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -224,21 +208,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProfileServlet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/RevCo/Servlets/ProfileServlet.java">
+      <file leaf-file-name="ApprovalServlet.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/RevCo/Servlets/ApprovalServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="943">
-              <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+            <state relative-caret-position="437">
+              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ApprovalServlet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/RevCo/Servlets/ApprovalServlet.java">
+      <file leaf-file-name="ProfileServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/RevCo/Servlets/ProfileServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state relative-caret-position="943">
+              <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -382,10 +366,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="359" />
-    <option name="y" value="70" />
-    <option name="width" value="1416" />
-    <option name="height" value="951" />
+    <option name="x" value="662" />
+    <option name="y" value="14" />
+    <option name="width" value="785" />
+    <option name="height" value="1008" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -402,7 +386,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -519,9 +502,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -944,6 +928,7 @@
       <workItem from="1520293040999" duration="29250000" />
       <workItem from="1520451997576" duration="42553000" />
       <workItem from="1520664189571" duration="226000" />
+      <workItem from="1521005760124" duration="680000" />
     </task>
     <servers />
   </component>
@@ -980,7 +965,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="227802000" />
+    <option name="totallyTimeSpent" value="228482000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1013,10 +998,10 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27892032" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27892032" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4095982" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12579957" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12552084" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
@@ -1298,14 +1283,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="569">
           <caret line="81" column="39" lean-forward="false" selection-start-line="81" selection-start-column="39" selection-end-line="81" selection-end-column="39" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/RevCo/test/Model/FormTest.java">
@@ -1358,13 +1343,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/RevCo/Servlets/LoginServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="614">
-          <caret line="67" column="9" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/RevCo/DAO/CommentDAOImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-492">
@@ -1401,14 +1379,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/RevCo/Servlets/ApprovalServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1542,8 +1512,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/RevCo/DAO/FormDAOImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+        <state relative-caret-position="253">
+          <caret line="124" column="13" lean-forward="false" selection-start-line="124" selection-start-column="13" selection-end-line="124" selection-end-column="13" />
           <folding>
             <element signature="method#getFormById#0;class#FormDAOImpl#0" expanded="false" />
             <element signature="method#getAllForms#0;class#FormDAOImpl#0" expanded="false" />
@@ -1560,28 +1530,28 @@
             <element signature="method#getPending#0;class#FormDAOImpl#0" expanded="false" />
             <element signature="method#getNewCost#0;class#FormDAOImpl#0" expanded="false" />
             <element signature="method#closeResources#0;class#FormDAOImpl#0" expanded="false" />
-            <marker date="1520610332119" expanded="true" signature="566:723" ph="Select \&quot;tim... form" />
-            <marker date="1520610332119" expanded="true" signature="1971:2114" ph="Select \&quot;tim... form" />
             <marker date="1520610332119" expanded="true" signature="3407:3899" ph="Select form_... manager_form_junction" />
             <marker date="1520610332119" expanded="true" signature="4567:4614" ph="Select date_... manager_form_junction" />
             <marker date="1520610332119" expanded="true" signature="4567:4693" ph="Select date_... manager_form_junction" />
             <marker date="1520610332119" expanded="true" signature="4567:4695" ph="Select date_... manager_form_junction" />
             <marker date="1520610332119" expanded="true" signature="4567:4696" ph="Select date_... manager_form_junction" />
-            <marker date="1520610332119" expanded="true" signature="5404:5565" ph="Select \&quot;tim... form" />
-            <marker date="1520610332119" expanded="true" signature="6860:7018" ph="Select \&quot;tim... " />
-            <marker date="1520610332119" expanded="true" signature="8365:8525" ph="Select \&quot;tim... " />
-            <marker date="1520610332119" expanded="true" signature="9867:10026" ph="Select \&quot;tim... form" />
-            <marker date="1520610332119" expanded="true" signature="11340:11474" ph="Select \&quot;tim... grade_format" />
-            <marker date="1520610332119" expanded="true" signature="12134:12201" ph="Select event... events" />
-            <marker date="1520610332119" expanded="true" signature="12903:13021" ph="Select event... events" />
-            <marker date="1520610332119" expanded="true" signature="13700:13745" ph="UPDATE form... " />
-            <marker date="1520610332119" expanded="true" signature="14644:14812" ph="INSERT INTO form... " />
-            <marker date="1520610332119" expanded="true" signature="15517:15632" ph="INSERT INTO manager_form_junction... " />
-            <marker date="1520610332119" expanded="true" signature="15581:15632" ph="Select form.... form" />
-            <marker date="1520610332119" expanded="true" signature="16232:16406" ph="UPDATE form... " />
-            <marker date="1520610332119" expanded="true" signature="17659:17722" ph="SELECT SUM (... form" />
-            <marker date="1520610332119" expanded="true" signature="18441:18504" ph="SELECT SUM (... form" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/RevCo/Servlets/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="989">
+          <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/RevCo/Servlets/ApprovalServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
